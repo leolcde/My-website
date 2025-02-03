@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #434852;
+  width: 100%;
+  min-height: 113.8vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(255, 255, 255);
+}
+
+.App-title {
+  font-size: 1.7rem;
+  margin: 0;
+}
+
+.App-minititle {
+  font-size: 4rem;
+  position: absolute; top: 200px;
+  color: #02a4f0;
+}
+
+.Logo {
+  width: 150px;
+  height: auto;
+  position: absolute; top: 10px; left: 10px;
+}
+
+.Text {
+  width: 150px;
+  height: auto;
+  position: absolute; top: 550px; left: 200px;
+  font-weight: bold;
+}

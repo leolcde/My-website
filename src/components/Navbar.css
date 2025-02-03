@@ -1,0 +1,20 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute; top:  0px;
+    padding: 20px 763px;
+    background-color: #006a9b;
+  }
+
+  .navbar-links {
+    list-style: none;
+    display: flex;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+  }
+
+  .navbar-links li {
+    margin: 0 10px;
+  }
