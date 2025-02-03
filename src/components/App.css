@@ -1,0 +1,14 @@
+.App {
+    background-color: rgb(42, 59, 116);
+}
+
+.Title {
+    font-size: 3rem;
+    position: absolute; top: 200px; left: 700px;
+    color: #02a4f0;
+}
+
+.Login_div {
+    position: absolute; top: 300px; left: 700px;
+}
+
